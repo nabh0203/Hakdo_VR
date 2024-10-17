@@ -13,9 +13,9 @@
 
 ![Frame 214](https://github.com/user-attachments/assets/a581705b-f41a-4d55-8fdb-ee893533a492)
 
-> **능력을 “ Verify~” 하다**
+> **능력을 “ Verify” 하다**
 >
-> 나의 능력을 “ 증명(Verify) ” 할 수 있게 해준 콘텐츠
+> 나의 능력을 **“ 증명(Verify) ”** 할 수 있게 해준 콘텐츠
 > 
 > 계원예술대학교 졸업 전시 작품에 출품하였던 **“학도”** 라는 프로젝트 입니다.
 >
